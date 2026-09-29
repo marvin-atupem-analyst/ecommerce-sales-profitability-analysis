@@ -15,4 +15,4 @@ This project analyzes e-commerce sales data to identify key patterns in revenue,
 The analysis includes an executive performance overview and a profitability deep dive, with key insights and business recommendations.
 
 ### Project Report
-[View the Full Analysis PDF](ecommerce_sales_and_profitability_analysis)
+[View the Full Analysis PDF](ecommerce_sales_and_profitability_analysis.pdf)
